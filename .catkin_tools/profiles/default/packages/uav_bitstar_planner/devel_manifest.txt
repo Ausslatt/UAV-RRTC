@@ -1,0 +1,5 @@
+uav_bitstar_planner
+/home/austin/catkin_ws/devel/.private/uav_bitstar_planner/cmake.lock /home/austin/catkin_ws/devel/./cmake.lock
+/home/austin/catkin_ws/devel/.private/uav_bitstar_planner/share/uav_bitstar_planner/cmake/uav_bitstar_plannerConfig.cmake /home/austin/catkin_ws/devel/share/uav_bitstar_planner/cmake/uav_bitstar_plannerConfig.cmake
+/home/austin/catkin_ws/devel/.private/uav_bitstar_planner/share/uav_bitstar_planner/cmake/uav_bitstar_plannerConfig-version.cmake /home/austin/catkin_ws/devel/share/uav_bitstar_planner/cmake/uav_bitstar_plannerConfig-version.cmake
+/home/austin/catkin_ws/devel/.private/uav_bitstar_planner/lib/pkgconfig/uav_bitstar_planner.pc /home/austin/catkin_ws/devel/lib/pkgconfig/uav_bitstar_planner.pc

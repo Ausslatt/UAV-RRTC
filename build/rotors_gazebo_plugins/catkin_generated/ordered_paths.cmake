@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/austin/catkin_ws/devel/.private/rotors_control/lib;/opt/ros/kinetic/lib")

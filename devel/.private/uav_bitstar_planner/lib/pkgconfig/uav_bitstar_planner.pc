@@ -1,0 +1,8 @@
+prefix=/home/austin/catkin_ws/devel/.private/uav_bitstar_planner
+
+Name: uav_bitstar_planner
+Description: Description of uav_bitstar_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

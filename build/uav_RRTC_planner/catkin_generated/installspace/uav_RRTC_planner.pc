@@ -1,0 +1,8 @@
+prefix=/home/austin/catkin_ws/install
+
+Name: uav_RRTC_planner
+Description: Description of uav_RRTC_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
